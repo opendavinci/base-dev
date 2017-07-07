@@ -37,6 +37,7 @@ RUN apt-get update -y && \
     default-jre \
     ffmpeg \
     freeglut3-dev \
+    fuse \
     git \
     libfuse-dev \
     libboost-dev \
